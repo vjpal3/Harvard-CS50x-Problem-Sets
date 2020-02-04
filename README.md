@@ -1,4 +1,4 @@
-# My Harvard CS50x Problem Sets Links 
+# My Solutions to Harvard CS50x Problem Sets 
 - Psets 1 - 4 (Programming in C ) https://github.com/vjpal3/C-programming-Harvard-CS50
   * Spell-checker using Trie data structure
   * Recover JPEGs from a forensic image
